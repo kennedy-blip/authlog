@@ -9,4 +9,4 @@ errors .. ..
 git
 clear
 cache
-push to 
+push to github
